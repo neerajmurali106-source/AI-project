@@ -1,0 +1,188 @@
+[
+  {
+    "id": 0,
+    "question": "NuGenomics",
+    "answer": "Make you feel younger, lighter, more productive",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 1,
+    "question": "NuGenomics",
+    "answer": "Make you feel younger, lighter, more productive",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 2,
+    "question": "Who is the program for?",
+    "answer": "This program is for You! All of you! You could be below 20 or over 70, or anywhere in between. The program takes into account everything about you from age to lifestyle & eating habits to uniquely design our recommendations to help you optimize your current and future health.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 3,
+    "question": "And how does it work?",
+    "answer": "The program starts off by studying your “source code” i.e., your DNA. We then combine this information with what we’ve learnt from your blood tests, medical history and lifestyle to get a better-quality picture of your health today and in the future. Next, we analyse this to develop the plan best suited to you and deliver all of it to you in bite-size packages of information that will help kick-start some micro-changes. The program includes- > a pre-counselling session to understand your lifestyle and the goals you aim to achieve > a post counselling session aimed to help you get started. Feel free to reach out to clarify any doubts you may have or regarding any changes that you want to make at any point of time during the course. This program, at the end of the day, is here to help you unlock your potential while you complete the tasks at your own pace.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 4,
+    "question": "Will you be telling me what to eat & what not to?",
+    "answer": "Yes and no. We’ve got a few nutritional interventions that are fully personalised for you, based on your blood and genomic data, your lifestyle and medical history. But we’ve promised you “no starving” and we’ll stick by it. This is truly built for you around you.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 5,
+    "question": "Am I going to need to go get a gym membership?",
+    "answer": "Not at all. We may include some light intensity exercises as part of your program if the need arises. Even if we do, they will not require the use of sophisticated equipment or a gym membership. We do however recommend keeping your physician in the loop before acting on any recommendations provided to you.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 6,
+    "question": "Am I going to need to go get a gym membership?",
+    "answer": "Not at all. We may include some light intensity exercises as part of your program if the need arises. Even if we do, they will not require the use of sophisticated equipment or a gym membership. We do however recommend keeping your physician in the loop before acting on any recommendations provided to you.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 7,
+    "question": "What do you aim to provide with this program?",
+    "answer": "To optimize overall health. This simply means that ensuring parameters like your immunity, energy, physical strength and metabolism are high as can be while parameters like body fat, inflammation, skin issues & allergies are as low as can be. Once we get the balance right, you’ll be feeling & moving like a sprightly young soul for a long, long time.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 8,
+    "question": "What’s the difference between this and any other health & wellness program?",
+    "answer": "This journey will not be like any run-of-the-mill program. It is completely holistic and personalized to achieve complete health optimization. We provide you with thorough understanding of your body, and your genetic information, and hand-hold you to bring about small changes that are sustainable to help you achieve the best version of yourself. No starving, no slamming it in the gym, no magic and no false promises. This is science, as true and hardcore as it can get.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 9,
+    "question": "You test my blood. Will you help bring all the stats in line?",
+    "answer": "The program includes collection and analysis of blood sample for over 70 blood parameters. Deviations are accounted for and we focus on recommending changes that will bring your stats right back on track. Our team does what they do best and finds ways to cure current ailments all the while making a plan to keep you in tip top condition for the future.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 10,
+    "question": "What are the blood parameters you consider in the sample testing?",
+    "answer": "We thought 70+ parameters deserved a question of their own so find them listed below:",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 11,
+    "question": "What are the genetic parameters you consider during sample testing?",
+    "answer": "Some things just run in our veins whether we like them or not. We’ve listed a few things we look at when building your profile: Metabolic Health- We learn about a lot of fancy sounding things like blood sugar, cholesterol, HDL, LDL (we’ll tell you the full forms when we get there). Nutritional Status- Give your body all the right nutrients & superfoods and it will give you the most out of everything you do. Sensitivities- Sometimes day to day substances like wheat & caffeine have adverse effects on our body. Your gene structure will let us know what does and does not work for your body. Ageing- Do you feel your age? All these body aches and pains tend to make you feel older than you actually are. Wouldn’t it be nice to feel younger for longer? Addictions- In the case of addiction to substances like caffeine & alcohol, the genetics play a vital role. Some people are more susceptible to these addictions and a quick glance into their genes will give us a better idea.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 12,
+    "question": "How does genetic information help personalize my program?",
+    "answer": "Genetic information helps in eliminating the guesswork from health planning. Your genes tell us what macronutrients you require in what quantities, what your body can’t handle and anything else your body is lacking. Armed with this information we’re able to predict how your body will respond to different kinds of foods and accordingly create a plan that is uniquely suited to you.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 13,
+    "question": "What degree of fitness do you expect from me?",
+    "answer": "The aim of our program is to help you get to a state of better overall wellness. Where you are now is just our starting point. We design a program considering your present condition & aim to bring holistic, long-term improvements. But like we said, probably best to keep your physician in the loop so that, you know, we’re not stepping on any toes.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 14,
+    "question": "How long does this program usually last?",
+    "answer": "The initial subscription lasts 3 months and this is meant to kickstart you towards your lifegoals. Once we’ve got you feeling faster, stronger and younger you decide whether you want to continue or not. Should you wish to continue to be a part of the program, you can pick from a variety of subscription options.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 15,
+    "question": "What does the initial 3-month plan provide?",
+    "answer": "The initial 3-month plan includes: > A genomic test identifying your requirements for macro and micro-nutrients, intolerances and a host of traits to personalize your nutrition. > A blood report comprising of 70+ parameters, > A pre-counselling session to understand your current lifestyle, preparatory recommendations to help you get in the right frame of mind to start off. > A post-counselling session to help you get started and actionable recommendations to help you optimize your health. You also have the liberty to speak with your nutrition counsellors to help you forge ahead if you get stuck anywhere in your health journey.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 16,
+    "question": "After these initial 3-months, what are your subscription options?",
+    "answer": "Once we’re done with the first phase, if you want to stick around, you may subscribe on a monthly, quarterly, half-yearly or annual basis based on your convenience and requirements.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 17,
+    "question": "Do I have to pay all at once or do you have EMIs?",
+    "answer": "We do offer EMI options on select credit and debit cards.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 18,
+    "question": "Are you up to date with data & information security norms?",
+    "answer": "100%, your anonymity and security is one of our foundational values. Our state-of-the-art security systems anonymize all your personal information by stripping it away from your genetic information and your physical sample. Furthermore, the systems have been designed to be compliant with European GDPR guidelines and Indian Data Protection Bill 2019.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 19,
+    "question": "Will my results indicate any medical or diagnostic info?",
+    "answer": "The genetic test and the program are intended for predictive and preventive purposes and should not be confused to be providing diagnosis of any medical or disease conditions. We highly recommend that you keep your physician in the loop about any changes you’re bringing about.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 20,
+    "question": "Just out of curiosity, do you think you can really determine your health and fitness based on your DNA?",
+    "answer": "Absolutely! We believe you can. Your overall health is a result of your DNA and its interactions with the environment. Ergo, anything external to your DNA – your food, the air you breathe, where you stay, daily stresses – is considered your environment. We combine your genetic information with your lifestyle information to paint a clear picture of your health. The recommendations that we provide are created as a result of all this information and are thus uniquely personalized to you.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 21,
+    "question": "Once we’re done, I’d like you to get rid of my sample. Would that be possible?",
+    "answer": "Yes. Your physical sample is your personal property. While we maintain your sample exclusively for research purposes to help alleviate diseases and suffering of fellow Indians, we understand your concerns. We will be sad to see such a great source of information be destroyed, it’s your choice & we fully respect that.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 22,
+    "question": "What about me personal information from your systems?",
+    "answer": "Again, yes. Security, privacy & anonymity are part of our core values and once you make a pinky promise, you can’t break it right? Your information is your personal property and we will do with it as you please. It brings tear to our eyes, seeing you leave but you have the right to delete all your information at the click of a button. We must inform you though, that upon doing so, all your test results and medical records are wiped from our systems. To access any future products, you will have to get yourself tested all over again. In you choose to keep your data, you would have access to future products without needing to get tested again.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 23,
+    "question": "Can I reschedule my Genetic Counselling session ?",
+    "answer": "Yes, you can. You can reschedule it twice. However we suggest you take care in not postponing your session. Our scheduling algorithm will find it difficult to adjust your slot with your health-coaches’ free slot times. In case you do not need to adjust the slot, please inform the support team (support@nugenomics.in) 24 hours before the session. In case you have already rescheduled twice, you need to schedule the session and you need to pay 500 INR. This is to compensate for the lost time for the health coaches.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 24,
+    "question": "Can I reschedule my Lifestyle Analysis session ?",
+    "answer": "Yes, you can. You can reschedule it twice. However we suggest you take care in not postponing your session. Our scheduling algorithm will find it difficult to adjust your slot with your health-coaches’ free slot times. In case you do not need to adjust the slot, please inform the support team (support@nugenomics.in) 24 hours before the session. In case you have already rescheduled twice, you need to schedule the session and you need to pay 500 INR. This is to compensate for the lost time for the health coaches.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 25,
+    "question": "Can I reschedule my sample collection ?",
+    "answer": "Yes! You can. Our system allows you to reschedule your sample collection 24 hours before your already selected date or time. However, you will be able to reschedule this only for 3 times. Post which you need to contact our support (support@nugenomics.in)",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 26,
+    "question": "What is a wellbeing and transformation session?",
+    "answer": "We strongly believe in supporting you in each aspect of life which may be hindering your progress during your journey with us. In order to aid you to handle your inhibitions during the program and beyond that, we have mental health experts in our team to bring out positive wellbeing and transformation in you, sustainable in true essence. They will have sessions with you to understand your concerns and address them appropriately.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 27,
+    "question": "Can I reschedule my wellbeing and transformation session ?",
+    "answer": "Yes, you can. You can reschedule it twice. However we suggest you take care in not postponing your session. Our scheduling algorithm will find it difficult to adjust your slot with your mental health expert’s free slot times. In case you do not need to adjust the slot, please inform the support team (support@nugenomics.in) 24 hours before the session or inform your health coach or health expert. In case you have already rescheduled twice, you need to schedule the session and you need to pay 300 INR. This is to compensate for the lost time for the mental health expert.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 28,
+    "question": "When will I get my Blood report?",
+    "answer": "Your blood report will be ready in 72 hours.",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 29,
+    "question": "Schedule Your Appointment",
+    "answer": "Speak with an expert to see which tests and programs are right for you",
+    "url": "https://www.nugenomics.in/faqs/"
+  },
+  {
+    "id": 30,
+    "question": "NuGenomics",
+    "answer": "Make you feel younger, lighter, more productive",
+    "url": "https://www.nugenomics.in/faqs/"
+  }
+]
